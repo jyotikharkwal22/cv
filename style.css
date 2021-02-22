@@ -1,0 +1,44 @@
+
+
+/*TAG selcetors*/
+
+body{
+  font-family: sans-serif;
+  background-color: #e0ece4;
+  letter-spacing: 0.07em;
+}
+h2{
+  text-indent: 30px;
+}
+.icons{
+  line-height: 1.6;
+}
+.container{
+
+  height:120px;
+}
+/*Class selectors*/
+.profile-pic{
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+float: left;
+}
+.row{
+  padding: 20px;
+  display: flex;
+}
+.column
+{
+  flex: 50%;
+}
+.headings{
+  color: blue;
+  opacity: 60%;
+}
+.icons{
+  color: blue;
+    opacity: 60%;
+padding-left: 15px;
+padding-right: 10px;
+}
